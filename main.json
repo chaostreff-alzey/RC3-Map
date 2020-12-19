@@ -893,7 +893,7 @@
         {
          "columns":36,
          "firstgid":619,
-         "image":"..\/tilesets\/space.png",
+         "image":"tilesets\/space.png",
          "imageheight":384,
          "imagewidth":1152,
          "margin":0,
