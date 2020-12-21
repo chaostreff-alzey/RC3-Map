@@ -7,3 +7,6 @@ All tilesets not explicitly named in this document are licensed under [CC-0](htt
 	- cert_safety.png
 		- License [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 		- Made by: CERT (cert.ccc.de)
+	- warming_stripes.png
+		- License [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+		- Made by: Ed Hawkins, climate scientist at University of Reading
